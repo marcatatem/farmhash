@@ -43,7 +43,6 @@
       'OTHER_CPLUSPLUSFLAGS': [
         '-fexceptions',
         '-Wall',
-        '-march=native',
         '-Ofast',
         '-funroll-loops'
       ]
